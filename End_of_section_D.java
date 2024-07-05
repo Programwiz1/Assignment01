@@ -2,7 +2,7 @@
 
 /**
  * File Name: Applications.java
- * Assignment and Exercise Number: Lab01 Exercise A
+ * Assignment and Exercise Number: Lab01 Exercise D
  * Names: Monil Patel
  * Submission Date: July 02, 2024
  * 
